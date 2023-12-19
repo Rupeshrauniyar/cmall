@@ -1,0 +1,83 @@
+body{
+background-color: #c54131;
+margin-top: 160px;
+}
+.login{
+background-color: white;
+display: flex;
+}
+.login a{
+text-decoration: none;
+margin-right: 40px;
+margin-left: 20px;
+font-size: 20px;
+color:black;
+line-height: 100px;
+}
+.login a:hover,
+.login a.active{
+border-bottom: 3px solid #ffd215;
+}
+hr{
+margin-top: -36px;
+}
+.login input{
+margin-top: 30px;
+width: 410px;
+height: 50px;
+}
+.login #button{
+border: 2px.solid #4063ff;
+border-radius: 50px;
+padding: 7px;
+background-color: #4063ff;
+margin-left: -290px;
+}
+.login #forgot{
+color: #00eaff;
+}
+.footer{
+background-color:black;
+width:430px;
+margin-left: -7px;
+margin-top: 80px;
+}
+
+.footer a{
+color: #00eaff;
+display: block;
+line-height: 35px;
+transition: all .55s ease;
+}
+.footer #quicklink{
+text-decoration: none;
+color: red;
+}
+.footer img{
+width: 80px;
+height: 40px;
+}
+h3{
+color:white;
+border: 2px solid white;
+background-color:#c54131 ;
+border-radius: 50px;
+}
+h4{
+color: white;
+font-size: 25px;
+}
+h5{
+color: white;
+font-size: 30px;
+}
+h6{
+color:white;
+font-size: 20px;
+}
+p{
+color:white;
+}
+i{
+color: white;
+}
