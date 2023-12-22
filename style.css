@@ -177,12 +177,12 @@ height: 40px;
 margin-left: 800px;
 }
 .main-film img{
-width:1800px;
-height: 400px;
+width:2000px;
+height: 600px;
 }
 .main-film2 a{
-margin-left: 1000px;
-font-size: 40px;
+margin-left: 800px;
+font-size: 30px;
 }
 h2{
 color: white;
@@ -196,7 +196,7 @@ margin-left: 250px;
 margin-left: 250px;
 }
 .main-dates a{
-margin-left: 300px;
+margin-left: 150px;
 }
 .booking img{
 width: 800px;
@@ -207,7 +207,7 @@ width: 800px;
 height: 900px;
 }
 .footer{
-width:1500px;
+width:2000px;
 }
 }
 @media(max-width:1140px){
