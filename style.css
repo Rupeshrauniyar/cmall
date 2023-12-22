@@ -177,8 +177,8 @@ height: 40px;
 margin-left: 800px;
 }
 .main-film img{
-width:1900px;
-height: 600px;
+width:1902px;
+height: 700px;
 }
 .main-film2 a{
 margin-left: 850px;
@@ -207,7 +207,7 @@ width: 1000px;
 height: 1200px;
 }
 .footer{
-width:2000px;
+width:1700px;
 }
 }
 @media(max-width:1140px){
